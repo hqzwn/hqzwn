@@ -1,5 +1,4 @@
 
-<img width="449" height="454" alt="Ảnh chụp màn hình 2026-10-09 143407" src="https://github.com/user-attachments/assets/14ccc569-b76b-46a1-97e3-44697f2494c8" />
 
 <!--
 **hqzwn/hqzwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
