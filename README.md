@@ -1,5 +1,5 @@
 <img width="640" height="360" alt="tải xuống" src="https://github.com/user-attachments/assets/120436a4-4cd7-4638-b35b-c4652e88a2ef" />
-![Uploading Tumblr.gif…]()
+
 
 <!--
 **hqzwn/hqzwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
