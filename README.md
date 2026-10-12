@@ -1,6 +1,5 @@
 
-![Uploading tải xuống.gif…]()
-
+"C:\Users\hp\Downloads\tải xuống.gif"
 <!--
 **hqzwn/hqzwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
