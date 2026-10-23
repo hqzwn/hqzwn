@@ -1,5 +1,4 @@
-<img width="640" height="360" alt="tải xuống" src="https://github.com/user-attachments/assets/120436a4-4cd7-4638-b35b-c4652e88a2ef" />
-
+https://i.pinimg.com/736x/e9/60/cf/e960cfc940e67027b6a2f705d35ac031.jpg
 
 
 
